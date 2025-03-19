@@ -2,6 +2,8 @@
 
 This is a reproduction of a bug reported here:
 
+> The application bundle will break if `unstable_enablePackageExports` is enabled in the Metro configuration.
+
 ## Steps to reproduce
 
 1. Clone this repo
